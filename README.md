@@ -12,7 +12,7 @@ O sistema possui um menu interativo via terminal onde o usuário pode cadastrar 
 
 ## 💻 Como rodar o programa
 1. Certifique-se de ter o [Python 3.x](https://www.python.org/) instalado na sua máquina.
-2. Clone este repositório: `git clone [COLE O LINK DO SEU REPOSITÓRIO AQUI]`
+2. Clone este repositório: https://github.com/oThi3rry/automacao-industrial-python
 3. Abra o terminal na pasta do projeto.
 4. Execute o comando: `python main.py`
 
